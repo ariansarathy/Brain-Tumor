@@ -54,10 +54,6 @@ Download the dataset first and set `train_dir` and `test_dir` in the `Config` cl
 | `brain_tumor_classifier.py` | The same pipeline as a standalone Python script |
 | `training_curves.png` | Loss, accuracy, precision, recall and F1 score by epoch |
 
-## Tech stack
-
-Python, PyTorch, torchvision, scikit-learn, Matplotlib, Google Colab
-
 ## Limitations
 
 - This is a learning project, not a medical device. It must not be used to diagnose anyone.
